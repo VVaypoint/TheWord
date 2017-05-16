@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/MMO Camera And Player Test build.unity
+  isLoaded: 1
+  isActive: 1
